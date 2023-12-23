@@ -47,5 +47,3 @@ Emre Özcan, Elanur İleri, Sema Nimet Ünal
 
 Mehmet Alpergün, Selvanur Kıraç
 
-# Strategy: Multiple Resource Access
-OGcar(Şaban Kerem Yeğin , Ogün Ak , Tuğcan Turunçkapı)
